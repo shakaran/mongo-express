@@ -1,4 +1,4 @@
-FROM node:18.7.0-slim
+FROM node:18.9.1-slim
 
 # grab tini for signal processing and zombie killing
 ENV TINI_VERSION 0.9.0
