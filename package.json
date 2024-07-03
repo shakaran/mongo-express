@@ -47,7 +47,7 @@
     "memorystore": "^1.6.7",
     "method-override": "^3.0.0",
     "mongodb": "^4.9.0",
-    "mongodb-query-parser": "^2.4.6",
+    "mongodb-query-parser": "^2.4.7",
     "morgan": "^1.9.0",
     "serve-favicon": "^2.5.0",
     "swig-templates": "2.0.3"
